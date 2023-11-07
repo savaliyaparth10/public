@@ -1,0 +1,6 @@
+export * from './disclaimer'
+export * from './privacy-policy'
+export * from './return-policy'
+export * from './term-condition'
+export * from './about-us'
+export * from './contact-us'

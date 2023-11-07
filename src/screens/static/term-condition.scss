@@ -1,0 +1,32 @@
+.term-condition-main {
+    .tc-heading {
+        font-size: 20px !important;
+        margin-top: 2rem !important;
+        margin-bottom: 0;
+    }
+    .tc-subtitle {
+        margin-top: 2rem;
+    }
+}
+.sub-section,
+.indemnification {
+    margin-bottom: 1.5rem;
+    li {
+        list-style: decimal;
+        margin-top: 0.6rem;
+    }
+    .heading {
+        font-size: 18px !important ;
+        margin-bottom: 0;
+    }
+    article {
+        margin-top: 0.5rem;
+
+        span {
+            font-weight: 600;
+        }
+        li {
+            list-style: lower-alpha;
+        }
+    }
+}

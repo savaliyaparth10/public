@@ -1,0 +1,121 @@
+{
+    "NGOId": "",
+    "EventFAQ": [
+        {
+            "UniqueId": 1,
+            "ProviderEventId": 257,
+            "FAQ": "FAQ New",
+            "Answer": "Answer New",
+            "IsDefault": true,
+            "TokenStatus": null
+        }
+    ],
+    "TC": [
+        {
+            "UniqueId": 87,
+            "ProviderEventId": 338,
+            "TC": "Eligibility The Site, the App and the Services are offered only to users eighteen (18) years of age or older, or otherwise the age of majority in their respective jurisdictions, and who have accepted this Agreement. By visiting, accessing, registering with or using the Site or the App, or by purchasing, offering, providing, marketing or using any products or services on r through the Site or the App (including, without limitation, the Services), you represent and warrant to Sulekha that you meet these eligibility requirements. You agree to comply with all applicable laws for visiting, accessing, registering with and using the Site and the App and for purchasing, offering, providing, marketing and using any products or services on or through the Site or the App (including, without limitation, the Services), and you may only use them for lawful purposes.",
+            "IsDefault": true
+        }
+    ],
+    "FreeTicketAge": "2",
+    "Description": "",
+    "TimeZoneName": "Atlantic Standard Time",
+    "LanguageId": "3",
+    "IsTicket": true,
+    "ContactNumber": "",
+    "ContactName": "wewwe",
+    "Email": "wd@rgrt.rytrt",
+    "WebSite": "",
+    "PlaceId": "37",
+    "CategoryId": "10",
+    "ProviderId": "4",
+    "EventName": "gyrejw",
+    "IsPrivate": false,
+    "ChildFree": false,
+    "IsNGO": false,
+    "Tags": "dw;werfe",
+    "EventTicketRate": [
+        {
+            "IsGroupedTicket": false,
+            "GroupedTicketCount": 0,
+            "IsFreeEvent": false,
+            "TicketDescription": "",
+            "TicketDiscount": 0,
+            "MaxPerOrder": 233,
+            "TicketPrice": 232,
+            "TicketQty": 2323,
+            "TicketType": "12",
+            "ServiceFee": 0,
+            "DisplayOrder": "",
+            "EventStartDate": "",
+            "EventStartTime": "",
+            "EventEndDate": "",
+            "EventEndTime": "",
+            "SellingStartDate": "Invalid Date Invalid Date",
+            "SellingEndDate": "Invalid Date Invalid Date"
+        }
+    ],
+    "EventImages": [],
+    "EventStartDateTime": "2023-09-14 20:35:45",
+    "EventEndDateTime": "2023-09-14 23:59:59"
+}
+
+{
+    "NGOId": "",
+    "EventFAQ": [
+        {
+            "UniqueId": 1,
+            "ProviderEventId": 257,
+            "FAQ": "FAQ New",
+            "Answer": "Answer New",
+            "IsDefault": true,
+            "TokenStatus": null
+        }
+    ],
+    "TC": [
+        {
+            "UniqueId": 87,
+            "ProviderEventId": 338,
+            "TC": "Eligibility The Site, the App and the Services are offered only to users eighteen (18) years of age or older, or otherwise the age of majority in their respective jurisdictions, and who have accepted this Agreement. By visiting, accessing, registering with or using the Site or the App, or by purchasing, offering, providing, marketing or using any products or services on r through the Site or the App (including, without limitation, the Services), you represent and warrant to Sulekha that you meet these eligibility requirements. You agree to comply with all applicable laws for visiting, accessing, registering with and using the Site and the App and for purchasing, offering, providing, marketing and using any products or services on or through the Site or the App (including, without limitation, the Services), and you may only use them for lawful purposes.",
+            "IsDefault": true
+        }
+    ],
+    "FreeTicketAge": "2",
+    "Description": "",
+    "TimeZoneName": "Eastern Standard Time",
+    "LanguageId": "3",
+    "IsTicket": true,
+    "ContactNumber": "wegr",
+    "ContactName": "456y",
+    "Email": "wer@eg.gr",
+    "WebSite": "nwfewr",
+    "PlaceId": "44",
+    "CategoryId": "7",
+    "ProviderId": "1174",
+    "EventName": "efrt",
+    "IsPrivate": false,
+    "ChildFree": false,
+    "IsNGO": false,
+    "Tags": "et",
+    "EventTicketRate": [
+        {
+            "IsGroupedTicket": false,
+            "GroupedTicketCount": 0,
+            "IsFreeEvent": false,
+            "TicketDescription": "",
+            "TicketDiscount": 11,
+            "MaxPerOrder": 12,
+            "TicketPrice": 12,
+            "TicketQty": 12,
+            "TicketType": "12",
+            "ServiceFee": 12,
+            "DisplayOrder": "",
+            "SellingStartDate": "2023-09-14 23:21:48",
+            "SellingEndDate": "2023-09-14 22:21:21"
+        }
+    ],
+    "EventImages": [],
+    "EventStartDateTime": "2023-09-14 23:21:21",
+    "EventEndDateTime": "2023-09-14 23:59:59"
+}

@@ -1,0 +1,10 @@
+.privacy-policy-main .pp-heading {
+  font-size: 20px !important;
+  margin-top: 2rem !important;
+}
+.privacy-policy-main .document-date {
+  margin-top: 2rem;
+}
+.privacy-policy-main .sub-section article li {
+  list-style: disc;
+}/*# sourceMappingURL=privacy-policy.css.map */

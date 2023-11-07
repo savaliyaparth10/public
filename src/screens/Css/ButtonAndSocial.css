@@ -1,0 +1,17 @@
+/* =================modal=============== */
+.ant-modal-mask {
+    backdrop-filter: blur(10px);
+}
+.ant-modal-close {
+    border: 1px solid white !important;
+    border-radius: 50% !important;
+}
+.ant-modal-close-x {
+    margin-top: -5px;
+}
+.ant-modal-title {
+    font-weight: 700 !important;
+    font-size: 24px !important;
+    color: #e8e8ea !important;
+    
+}

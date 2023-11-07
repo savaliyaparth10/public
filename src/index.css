@@ -1,0 +1,133 @@
+@import url("./utility/theme/antd.css");
+
+
+@font-face {
+	font-family: 'Inter', sans-serif !important;
+	/* src: url('/fonts/fontawesome-webfont.eot'); */
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+* {
+	font-family: 'Inter', sans-serif !important;
+	color: #FFFFFF;
+}
+
+body {
+	margin: 0px !important;
+}
+
+.mr-2{
+  margin-right: 0.5rem;
+}
+
+.ml-2{
+  margin-left: 0.5rem !important;
+}
+
+.pr-2{
+	padding-right: 0.5rem;
+  }
+  
+  .pl-2{
+	padding-left: 0.5rem !important;
+  }
+
+  .text-left {
+	text-align: left;
+  }
+  
+  .text-right {
+	text-align: right;
+  }
+.font-14 {
+	font-size: 14px;
+}
+.font-16 {
+	font-size: 16px;
+}
+.font-12 {
+	font-size: 12px;
+}
+.font-18 {
+	font-size: 18px;
+}
+        .three-dots {
+	text-overflow: ellipsis;
+overflow: hidden;
+white-space: nowrap;
+}
+
+.font-grey {
+    color: #a6a6a6;
+}
+.font-white {
+	color: #FFFFFF !important;
+}
+.text-line {
+	text-decoration: line-through;
+}
+.ant-popover-inner {
+	background-color: #0D1019 !important;
+}
+.ant-popconfirm-description {
+	color: white !important;
+}
+.ant-popover-arrow::before{
+	background-color: #0D1019 !important;
+}
+.text-overline {
+	text-decoration: overline;
+  }
+  .dot {
+	height: 11px;
+	width: 11px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	margin-right: 5px;
+  }
+  
+  
+  .react-grid-item.react-draggable .react-resizable-handle {
+	display: none;
+  }
+  
+  /* Style custom drag handle */
+  .custom-drag-handle {
+	position: absolute;
+	top: -15px;
+	left: 50%;
+	transform: translateX(-50%);
+	background-color: #007bff;
+	color: #fff;
+	padding: 3px 8px;
+	cursor: move;
+  }
+
+  .react-draggable  {	
+	height: unset !important;
+  }
+
+  .mobile-drawer .ant-drawer-body {
+	padding: 0 !important;
+  }
+
+  .drag-drop-container {
+	display: flex;
+	margin-inline: 10px;
+	flex-wrap: wrap;
+  }
+  
+  .drag-item {
+	flex: 0 0 auto;
+	padding: 10px;
+  }
+  
+  .drag-item.dragging {
+	transform: scale(1.05);
+  }
+  .box-bg {
+	background-color: #f6f6f6;
+  }

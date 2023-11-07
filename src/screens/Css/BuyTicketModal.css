@@ -1,0 +1,10 @@
+.ant-modal-wrap {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.ant-modal-content {
+    padding-bottom: 0 !important;
+}
+:where(.css-dev-only-do-not-override-1xusghl).ant-modal .ant-modal-close {
+    height: 24px;
+}
